@@ -11,5 +11,6 @@ from orgspirituality.org, not a redesign.
 | `apple-touch-icon-180.png` | iOS home-screen icon |
 | `icon-192.png` | PWA / Android icon |
 
-Visual direction for the website is being decided by community vote; this repository only holds the
-current logo files.
+Read [`BRAND-GUIDELINES.md`](BRAND-GUIDELINES.md) before using the mark.
+
+Usage rules are in [`BRAND-GUIDELINES.md`](BRAND-GUIDELINES.md). Visual direction for the website is being decided by community vote; this repository only holds the current logo files.
