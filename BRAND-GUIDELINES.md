@@ -1,7 +1,7 @@
 # ORG Brand Guidelines
 
 *Draft. Plain-language guidance for using the Octagon Religious-Research Group (ORG) logo. Changes go
-through the community vote.*
+through the community vote. Not legal advice.*
 
 ## The marks
 
